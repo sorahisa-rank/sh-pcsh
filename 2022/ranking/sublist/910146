@@ -1,0 +1,406 @@
+[
+    {
+        "user": "910146",
+        "task": "Divisor",
+        "time": 1662958095,
+        "key": "2641",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Divisor",
+        "time": 1662958203,
+        "key": "2646",
+        "score": 15.0,
+        "token": false,
+        "extra": [
+            "0",
+            "15",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Divisor",
+        "time": 1662958334,
+        "key": "2650",
+        "score": 15.0,
+        "token": false,
+        "extra": [
+            "0",
+            "15",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Rotation",
+        "time": 1662960791,
+        "key": "2697",
+        "score": 100.0,
+        "token": false,
+        "extra": [
+            "0",
+            "10",
+            "17",
+            "39",
+            "34"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Temple",
+        "time": 1662964658,
+        "key": "2795",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Temple",
+        "time": 1662964794,
+        "key": "2796",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Temple",
+        "time": 1662965357,
+        "key": "2804",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Antique",
+        "time": 1663303536,
+        "key": "2963",
+        "score": 100.0,
+        "token": false,
+        "extra": [
+            "0",
+            "19",
+            "22",
+            "34",
+            "25"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Journey",
+        "time": 1663309733,
+        "key": "3200",
+        "score": 17.0,
+        "token": false,
+        "extra": [
+            "0",
+            "17",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Journey",
+        "time": 1663311186,
+        "key": "3254",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Nine_2dsquare_2ddivision",
+        "time": 1663304949,
+        "key": "3030",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Nine_2dsquare_2ddivision",
+        "time": 1663305286,
+        "key": "3045",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Nine_2dsquare_2ddivision",
+        "time": 1663311273,
+        "key": "3257",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Nine_2dsquare_2ddivision",
+        "time": 1663311410,
+        "key": "3261",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Nine_2dsquare_2ddivision",
+        "time": 1663311490,
+        "key": "3266",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Nine_2dsquare_2ddivision",
+        "time": 1663311766,
+        "key": "3281",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Nine_2dsquare_2ddivision",
+        "time": 1663311905,
+        "key": "3290",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Nine_2dsquare_2ddivision",
+        "time": 1663311988,
+        "key": "3295",
+        "score": 100.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "36",
+            "37"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Triangle",
+        "time": 1663305774,
+        "key": "3058",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Triangle",
+        "time": 1663305838,
+        "key": "3062",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Triangle",
+        "time": 1663309901,
+        "key": "3204",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Triangle",
+        "time": 1663312381,
+        "key": "3315",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Stringtheory",
+        "time": 1663737837,
+        "key": "3531",
+        "score": 24.0,
+        "token": false,
+        "extra": [
+            "0",
+            "24",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Stringtheory",
+        "time": 1663738103,
+        "key": "3538",
+        "score": 24.0,
+        "token": false,
+        "extra": [
+            "0",
+            "24",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Stringtheory",
+        "time": 1663743554,
+        "key": "3723",
+        "score": 24.0,
+        "token": false,
+        "extra": [
+            "0",
+            "24",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Stringtheory",
+        "time": 1663743660,
+        "key": "3725",
+        "score": 24.0,
+        "token": false,
+        "extra": [
+            "0",
+            "24",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "Stringtheory",
+        "time": 1663743859,
+        "key": "3729",
+        "score": 24.0,
+        "token": false,
+        "extra": [
+            "0",
+            "24",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910146",
+        "task": "TV",
+        "time": 1663735651,
+        "key": "3475",
+        "score": 100.0,
+        "token": false,
+        "extra": [
+            "0",
+            "17",
+            "26",
+            "25",
+            "19",
+            "13"
+        ]
+    }
+]

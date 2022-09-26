@@ -1,0 +1,238 @@
+{
+    "110648": {
+        "Rotation": 10.0,
+        "Temple": 100.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 100.0,
+        "Journey": 43.0,
+        "Triangle": 61.0,
+        "BaoBaoWang": 38.0,
+        "TV": 100.0,
+        "Stringtheory": 100.0
+    },
+    "910577": {
+        "Rotation": 100.0,
+        "Divisor": 77.0,
+        "Checkmate": 10.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 100.0,
+        "Triangle": 27.0,
+        "Journey": 43.0,
+        "TV": 100.0,
+        "Stringtheory": 100.0,
+        "Slime": 55.0,
+        "Counter": 18.0
+    },
+    "110202": {
+        "Rotation": 100.0,
+        "Temple": 13.0,
+        "Antique": 100.0,
+        "Journey": 43.0,
+        "Nine_2dsquare_2ddivision": 63.0,
+        "TV": 100.0,
+        "Stringtheory": 100.0
+    },
+    "910284": {
+        "Rotation": 100.0,
+        "Temple": 13.0,
+        "Divisor": 15.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 100.0,
+        "Triangle": 61.0,
+        "Journey": 43.0,
+        "TV": 100.0,
+        "Stringtheory": 100.0,
+        "Counter": 25.0
+    },
+    "010634": {
+        "Rotation": 100.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 27.0,
+        "TV": 100.0,
+        "Stringtheory": 100.0,
+        "Slime": 21.0,
+        "Counter": 25.0
+    },
+    "910146": {
+        "Rotation": 100.0,
+        "Divisor": 15.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 100.0,
+        "Triangle": 27.0,
+        "Journey": 17.0,
+        "TV": 100.0,
+        "Stringtheory": 24.0
+    },
+    "910114": {
+        "Rotation": 100.0,
+        "Temple": 100.0,
+        "Checkmate": 25.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 100.0,
+        "Triangle": 61.0,
+        "BaoBaoWang": 10.0,
+        "Counter": 43.0,
+        "TV": 100.0,
+        "Stringtheory": 100.0,
+        "Slime": 100.0,
+        "Lava": 78.0
+    },
+    "910170": {
+        "Rotation": 100.0,
+        "Divisor": 100.0,
+        "Checkmate": 100.0,
+        "Temple": 100.0,
+        "Spy": 69.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 100.0,
+        "Journey": 43.0,
+        "Triangle": 100.0,
+        "BaoBaoWang": 100.0,
+        "Counter": 100.0,
+        "TV": 100.0,
+        "Stringtheory": 100.0,
+        "Slime": 100.0,
+        "Lava": 100.0
+    },
+    "910452": {
+        "Rotation": 100.0,
+        "Divisor": 15.0,
+        "Temple": 100.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 100.0,
+        "Triangle": 27.0,
+        "Journey": 17.0,
+        "Stringtheory": 100.0,
+        "TV": 100.0,
+        "Slime": 36.0,
+        "Lava": 31.0
+    },
+    "910101": {
+        "Rotation": 10.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 27.0
+    },
+    "010339": {
+        "Rotation": 100.0,
+        "Temple": 13.0,
+        "Divisor": 15.0,
+        "Nine_2dsquare_2ddivision": 63.0,
+        "Antique": 100.0,
+        "Journey": 17.0,
+        "Triangle": 27.0,
+        "TV": 100.0,
+        "Stringtheory": 100.0
+    },
+    "910686": {
+        "Temple": 13.0,
+        "Divisor": 15.0,
+        "Nine_2dsquare_2ddivision": 63.0,
+        "Antique": 100.0,
+        "Triangle": 27.0,
+        "Journey": 17.0,
+        "Stringtheory": 100.0,
+        "TV": 100.0
+    },
+    "910391": {
+        "Temple": 13.0,
+        "Rotation": 10.0,
+        "Divisor": 15.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 27.0,
+        "Triangle": 27.0
+    },
+    "110740": {
+        "Divisor": 15.0,
+        "Antique": 100.0,
+        "Journey": 17.0,
+        "TV": 100.0,
+        "Stringtheory": 24.0
+    },
+    "910421": {
+        "Rotation": 10.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 27.0,
+        "Triangle": 27.0,
+        "Journey": 17.0
+    },
+    "910506": {
+        "Temple": 13.0,
+        "Antique": 100.0,
+        "Triangle": 27.0,
+        "TV": 100.0,
+        "Stringtheory": 100.0
+    },
+    "010562": {
+        "Rotation": 100.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 27.0,
+        "Journey": 17.0,
+        "Triangle": 27.0,
+        "TV": 100.0,
+        "Stringtheory": 100.0
+    },
+    "010282": {
+        "Temple": 13.0,
+        "Rotation": 61.0,
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 27.0,
+        "Journey": 17.0,
+        "Triangle": 27.0,
+        "TV": 100.0,
+        "Stringtheory": 24.0
+    },
+    "960615": {
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 27.0,
+        "Journey": 17.0,
+        "Triangle": 27.0,
+        "TV": 100.0
+    },
+    "010329": {
+        "Antique": 100.0,
+        "Journey": 17.0,
+        "Stringtheory": 63.0,
+        "TV": 100.0
+    },
+    "010270": {
+        "Antique": 100.0,
+        "Journey": 17.0,
+        "Nine_2dsquare_2ddivision": 27.0,
+        "TV": 100.0,
+        "Stringtheory": 100.0
+    },
+    "910609": {
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 27.0,
+        "Triangle": 27.0,
+        "TV": 100.0,
+        "Stringtheory": 100.0
+    },
+    "010696": {
+        "Antique": 100.0,
+        "Triangle": 27.0,
+        "TV": 100.0
+    },
+    "110713": {
+        "Antique": 100.0
+    },
+    "110155": {
+        "Antique": 100.0,
+        "Nine_2dsquare_2ddivision": 27.0,
+        "Triangle": 27.0,
+        "TV": 70.0
+    },
+    "110664": {
+        "Triangle": 27.0,
+        "Antique": 100.0,
+        "TV": 100.0
+    },
+    "110359": {
+        "Triangle": 27.0
+    },
+    "010643": {
+        "Stringtheory": 100.0,
+        "TV": 100.0,
+        "Counter": 25.0
+    }
+}

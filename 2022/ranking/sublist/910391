@@ -1,0 +1,316 @@
+[
+    {
+        "user": "910391",
+        "task": "Checkmate",
+        "time": 1662963244,
+        "key": "2760",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Checkmate",
+        "time": 1662966486,
+        "key": "2821",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Divisor",
+        "time": 1662963284,
+        "key": "2763",
+        "score": 15.0,
+        "token": false,
+        "extra": [
+            "0",
+            "15",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Rotation",
+        "time": 1662961975,
+        "key": "2736",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Rotation",
+        "time": 1662965059,
+        "key": "2799",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Rotation",
+        "time": 1662965489,
+        "key": "2807",
+        "score": 10.0,
+        "token": false,
+        "extra": [
+            "0",
+            "10",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Temple",
+        "time": 1662961391,
+        "key": "2717",
+        "score": 13.0,
+        "token": false,
+        "extra": [
+            "0",
+            "13",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Temple",
+        "time": 1662961462,
+        "key": "2721",
+        "score": 13.0,
+        "token": false,
+        "extra": [
+            "0",
+            "13",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Antique",
+        "time": 1663303472,
+        "key": "2959",
+        "score": 100.0,
+        "token": false,
+        "extra": [
+            "0",
+            "19",
+            "22",
+            "34",
+            "25"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "BaoBaoWang",
+        "time": 1663308950,
+        "key": "3177",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "BaoBaoWang",
+        "time": 1663313406,
+        "key": "3363",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "BaoBaoWang",
+        "time": 1663313494,
+        "key": "3366",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Journey",
+        "time": 1663306109,
+        "key": "3069",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Journey",
+        "time": 1663306582,
+        "key": "3088",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Journey",
+        "time": 1663313081,
+        "key": "3343",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Nine_2dsquare_2ddivision",
+        "time": 1663304670,
+        "key": "3015",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Nine_2dsquare_2ddivision",
+        "time": 1663306183,
+        "key": "3071",
+        "score": 0.0,
+        "token": false,
+        "extra": [
+            "0",
+            "0",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Nine_2dsquare_2ddivision",
+        "time": 1663306336,
+        "key": "3079",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Triangle",
+        "time": 1663310610,
+        "key": "3231",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Triangle",
+        "time": 1663310700,
+        "key": "3232",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    },
+    {
+        "user": "910391",
+        "task": "Triangle",
+        "time": 1663310896,
+        "key": "3242",
+        "score": 27.0,
+        "token": false,
+        "extra": [
+            "0",
+            "27",
+            "0",
+            "0"
+        ]
+    }
+]
